@@ -1,0 +1,8 @@
+{
+    "policy_groups": [
+        "networking",
+        "bluetooth",
+        "connectivity"
+    ],
+    "policy_version": 1.3
+}

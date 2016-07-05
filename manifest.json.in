@@ -1,0 +1,15 @@
+{
+    "name": "btchat.xiaoguo",
+    "description": "description of btchat",
+    "architecture": "@CLICK_ARCH@",
+    "title": "BlueChat",
+    "hooks": {
+        "btchat": {
+            "apparmor": "btchat/btchat.apparmor",
+            "desktop": "btchat/btchat.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=BlueChat
+Exec=btchat
+Icon=btchat/btchat.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
